@@ -2,3 +2,8 @@ theme = "ananke"
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Minecraft 説明サイト'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
