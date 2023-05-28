@@ -31,7 +31,7 @@ summary: "コマンド一覧"
         <th>説明</th>
     </tr>
     <tr>
-        <td>/offhand</td>
+        <td>/geyser offhand</td>
         <td>左手にアイテムを持つ</td>
     </tr>
     <tr>
@@ -88,3 +88,60 @@ summary: "コマンド一覧"
 </table>
 
 その他詳しい情報は[公式wiki](https://github.com/pop4959/LWCX/wiki)を参照してください
+
+## 経済系プラグイン
+<table>
+    <table border="1">
+    <tr>
+        <th>コマンド</th>
+        <th>説明</th>
+    </tr>
+    <tr>
+        <td>/money</td>
+        <td>自分の所持金を表示します</td>
+    </tr>
+    <tr>
+        <td>/money pay <プレイヤー> <金額></td>
+        <td>プレイヤーに指定した金額を送金します</td>
+    </tr>
+</table>
+
+## チェストショッププラグイン
+### 使い方
+
+売りたいものを手に持った状態で左クリックをすると売りたい金額を聞かれます
+![001](/resources/_gen/images/chestshop01.png)
+チャット欄に金額を入力します（　/　は不要です）
+![002](/resources/_gen/images/chestshop02.png)
+ショップが作成されます  
+売りたいアイテムをチェストの中に入れておくと売買できます  
+右クリックでショップのオプションを変更できます。  
+売り、買いの変更もここです  
+チャット欄をクリックして変更できます。
+![003](/resources/_gen/images/chestshop03.png)
+
+### コマンド
+
+<table>
+    <table border="1">
+    <tr>
+        <th>コマンド</th>
+        <th>説明</th>
+    </tr>
+    <tr>
+        <td>/qs buy</td>
+        <td>アイテムを購入するショップに変更します。</td>
+    </tr>
+    <tr>
+        <td>/qs sell</td>
+        <td>アイテムを販売するショップに変更します。</td>
+    </tr>
+    <tr>
+        <td>/qsprice <price></td>
+        <td>アイテムの買値/売値を変更します。</td>
+    </tr>
+    <tr>
+        <td>/qs create <price> [item]</td>
+        <td>手持ちのアイテムまたは指定したアイテムを使用してショップを作成するコマンド</td>
+    </tr>
+</table>
