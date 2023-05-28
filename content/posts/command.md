@@ -8,7 +8,7 @@ summary: "コマンド一覧"
 
 # 使用できるコマンド
 
-## TreeAssist
+## 木こりMOD(TreeAssist)
 
 <table>
     <table border="1">
@@ -22,7 +22,7 @@ summary: "コマンド一覧"
     </tr>
 </table>
 
-## 統合版ユーザー向け
+## 統合版ユーザー向け(Geyser-Spigot)
 
 <table>
     <table border="1">
@@ -40,7 +40,7 @@ summary: "コマンド一覧"
     </tr>
 </table>
 
-## チェスト保護プラグイン
+## チェスト保護プラグイン(LWCX)
 
 下表のコマンドを入力したあとチェスト等をクリックすることで保護を操作できます
 <table>
@@ -89,7 +89,7 @@ summary: "コマンド一覧"
 
 その他詳しい情報は[公式wiki](https://github.com/pop4959/LWCX/wiki)を参照してください
 
-## 経済系プラグイン
+## 経済系プラグイン(Jecon)
 <table>
     <table border="1">
     <tr>
@@ -106,7 +106,7 @@ summary: "コマンド一覧"
     </tr>
 </table>
 
-## チェストショッププラグイン
+## チェストショッププラグイン(QuickShop)
 ### 使い方
 
 売りたいものを手に持った状態で左クリックをすると売りたい金額を聞かれます
