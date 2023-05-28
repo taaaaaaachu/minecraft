@@ -110,7 +110,9 @@ summary: "コマンド一覧"
 ### 使い方
 
 売りたいものを手に持った状態で左クリックをすると売りたい金額を聞かれます
-![001](../../static\images\chestshop01.png)
+
+{{< figure src="../../static\images\chestshop01.png" alt="説明1" >}}
+
 チャット欄に金額を入力します（　/　は不要です）
 ![002](../../static\images\chestshop02.png)
 ショップが作成されます  
