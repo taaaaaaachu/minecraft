@@ -110,9 +110,7 @@ summary: "コマンド一覧"
 ### 使い方
 
 売りたいものを手に持った状態で左クリックをすると売りたい金額を聞かれます
-
-{{< figure src="https://github.com/taaaaaaachu/taaaaaaachu.github.io/blob/main/static/images/chestshop01.png?raw=true" alt="説明1" >}}
-
+![001](https://github.com/taaaaaaachu/taaaaaaachu.github.io/blob/main/static/images/chestshop01.png?raw=true)
 チャット欄に金額を入力します（　/　は不要です）
 ![002](https://github.com/taaaaaaachu/taaaaaaachu.github.io/blob/main/static/images/chestshop02.png?raw=true)
 ショップが作成されます  
