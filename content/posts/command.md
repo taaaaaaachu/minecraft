@@ -145,3 +145,4 @@ summary: "コマンド一覧"
         <td>手持ちのアイテムまたは指定したアイテムを使用してショップを作成するコマンド</td>
     </tr>
 </table>
+その他詳しい情報は[公式サイト](https://www.spigotmc.org/resources/quickshop-reremake-1-19-ready-multi-currency.62575/)を参照してください
