@@ -110,7 +110,7 @@ summary: "コマンド一覧"
 ### 使い方
 
 売りたいものを手に持った状態で左クリックをすると売りたい金額を聞かれます
-![001](../../resources/_gen/images/chestshop01.png)
+![001](resources\_gen\images\chestshop01.png)
 チャット欄に金額を入力します（　/　は不要です）
 ![002](../../resources/_gen/images/chestshop02.png)
 ショップが作成されます  
