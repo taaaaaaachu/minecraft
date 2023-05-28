@@ -111,7 +111,7 @@ summary: "コマンド一覧"
 
 売りたいものを手に持った状態で左クリックをすると売りたい金額を聞かれます
 
-{{< figure src="../../static\images\chestshop01.png" alt="説明1" >}}
+{{< figure src="https://github.com/taaaaaaachu/taaaaaaachu.github.io/blob/main/static/images/chestshop01.png?raw=true" alt="説明1" >}}
 
 チャット欄に金額を入力します（　/　は不要です）
 ![002](../../static\images\chestshop02.png)
