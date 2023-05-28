@@ -114,13 +114,13 @@ summary: "コマンド一覧"
 {{< figure src="https://github.com/taaaaaaachu/taaaaaaachu.github.io/blob/main/static/images/chestshop01.png?raw=true" alt="説明1" >}}
 
 チャット欄に金額を入力します（　/　は不要です）
-![002](../../static\images\chestshop02.png)
+![002](https://github.com/taaaaaaachu/taaaaaaachu.github.io/blob/main/static/images/chestshop02.png?raw=true)
 ショップが作成されます  
 売りたいアイテムをチェストの中に入れておくと売買できます  
 右クリックでショップのオプションを変更できます。  
 売り、買いの変更もここです  
 チャット欄をクリックして変更できます。
-![003](../../static\images\chestshop03.png)
+![003](https://github.com/taaaaaaachu/taaaaaaachu.github.io/blob/main/static/images/chestshop03.png?raw=true)
 
 ### コマンド
 
