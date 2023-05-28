@@ -110,15 +110,15 @@ summary: "コマンド一覧"
 ### 使い方
 
 売りたいものを手に持った状態で左クリックをすると売りたい金額を聞かれます
-![001](resources\_gen\images\chestshop01.png)
+![001](../../static\images\chestshop01.png)
 チャット欄に金額を入力します（　/　は不要です）
-![002](../../resources/_gen/images/chestshop02.png)
+![002](../../static\images\chestshop02.png)
 ショップが作成されます  
 売りたいアイテムをチェストの中に入れておくと売買できます  
 右クリックでショップのオプションを変更できます。  
 売り、買いの変更もここです  
 チャット欄をクリックして変更できます。
-![003](../../resources/_gen/images/chestshop03.png)
+![003](../../static\images\chestshop03.png)
 
 ### コマンド
 
