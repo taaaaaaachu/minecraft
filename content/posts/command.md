@@ -147,3 +147,29 @@ summary: "コマンド一覧"
 </table>
 
 その他詳しい情報は[公式サイト](https://www.spigotmc.org/resources/quickshop-reremake-1-19-ready-multi-currency.62575/)を参照してください
+
+## home系コマンド  
+
+<table>
+    <table border="1">
+    <tr>
+        <th>コマンド</th>
+        <th>説明</th>
+    </tr>
+    <tr>
+        <td>/sethome</td>
+        <td>ホームを指定します</td>
+    </tr>
+    <tr>
+        <td>/home</td>
+        <td>指定したホームにテレポートします</td>
+    </tr>
+    <tr>
+        <td>/delhome</td>
+        <td>ホームを削除します</td>
+    </tr>
+    <tr>
+        <td>/home bed</td>
+        <td>最後に寝たベッドにテレポートします</td>
+    </tr>
+</table>
