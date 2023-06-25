@@ -173,3 +173,72 @@ summary: "コマンド一覧"
         <td>最後に寝たベッドにテレポートします</td>
     </tr>
 </table>
+
+## jobコマンド(jobs reborn)  
+
+<table>
+    <table border="1">
+    <tr>
+        <th>コマンド</th>
+        <th>説明</th>
+    </tr>
+    <tr>
+        <td>/jobs join</td>
+        <td>ジョブに就くためのGUIを表示します</td>
+    </tr>
+    <tr>
+        <td>/jobs join jobName</td>
+        <td>jobに就きます</td>
+    </tr>
+    <tr>
+        <td>/jobs leave jobName</td>
+        <td>jobを辞めます</td>
+    </tr>
+    <tr>
+        <td>/jobs shop</td>
+        <td>ジョブショップを表示します</td>
+    </tr>
+</table>
+<table>
+    <table border="1">
+    <tr>
+        <th>ジョブ一覧</th>
+    </tr>
+    <tr>
+        <td>brewer</td>
+    </tr>
+    <tr>
+        <td>builder</td>
+    </tr>
+    <tr>
+        <td>crafter</td>
+    </tr>
+    <tr>
+        <td>digger</td>
+    </tr>
+    <tr>
+        <td>enchanter</td>
+    </tr>
+    <tr>
+        <td>explorer</td>
+    </tr>
+    <tr>
+        <td>farmer</td>
+    </tr>
+    <tr>
+        <td>fisherman</td>
+    </tr>
+    <tr>
+        <td>hunter</td>
+    </tr>
+    <tr>
+        <td>miner</td>
+    </tr>
+    <tr>
+        <td>weaponsmith</td>
+    </tr>
+    <tr>
+        <td>woodcutter</td>
+    </tr>
+    <tr>
+</table>
