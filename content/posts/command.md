@@ -187,11 +187,11 @@ summary: "コマンド一覧"
         <td>ジョブに就くためのGUIを表示します</td>
     </tr>
     <tr>
-        <td>/jobs join jobName</td>
+        <td>/jobs join [jobName]</td>
         <td>jobに就きます</td>
     </tr>
     <tr>
-        <td>/jobs leave jobName</td>
+        <td>/jobs leave [jobName]</td>
         <td>jobを辞めます</td>
     </tr>
     <tr>
