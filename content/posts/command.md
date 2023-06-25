@@ -8,6 +8,19 @@ summary: "コマンド一覧"
 
 # 使用できるコマンド
 
+## 便利系  
+<table>
+    <table border="1">
+    <tr>
+        <th>コマンド</th>
+        <th>説明</th>
+    </tr>
+    <tr>
+        <td>/fly</td>
+        <td>空を飛べます（5分500円）</td>
+    </tr>
+</table>
+
 ## 木こりMOD(TreeAssist)
 
 <table>
