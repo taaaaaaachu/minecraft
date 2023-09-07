@@ -14,7 +14,7 @@ summary: "マインクラフトサーバーの概要説明"
 |ローカル|192.168.0.17|
 
 # Discordサーバー
-<h1>[こちらから](https://discord.gg/aKhdze6d6)</h1>
+### [こちらから](https://discord.gg/aKhdze6d6)
 
 # 入っているプラグイン
 |プラグイン名|説明|
