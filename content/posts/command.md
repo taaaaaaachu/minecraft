@@ -20,6 +20,10 @@ summary: "コマンド一覧"
         <td>空を飛べます（5分500円）</td>
     </tr>
     <tr>
+        <td>/realscoreboard toggle</td>
+        <td>スコアボードのON/OFFを切り替えます</td>
+    </tr>
+    <tr>
         <td>/hat</td>
         <td>持っているブロックを頭に被ります</td>
     </tr>
@@ -102,6 +106,38 @@ summary: "コマンド一覧"
         <td>/cmodify　-<ユーザー1> -<ユーザー2>...</td>
         <td>既存の保護からユーザーを削除</td>
     </tr>
+    <tr>
+        <td>/cpersist</td>
+        <td>連続して保護をかけたり消したりできます</td>
+    </tr>
+    <tr>
+        <td>/credstone</td>
+        <td>レッドストーンが作用するかどうかを切り替えます</td>
+    </tr>
+    <tr>
+        <td>/cmagnet</td>
+        <td>近くにドロップしたアイテムを保護されたチェスト（またはインベントリのある他のブロック）に入れます</td>
+    </tr>
+    <tr>
+        <td>/cautoclose</td>
+        <td>保護されたドア が開かれた場合に自動的に閉じます。</td>
+    </tr>
+    <tr>
+        <td>/callowexplosions</td>
+        <td>保護されたブロックを 爆発によって破壊できるようにします</td>
+    </tr>
+    <tr>
+        <td>/chopper</td>
+        <td>保護されたブロックでホッパーを使用できるかどうかを制御します</td>
+    </tr>
+    <tr>
+        <td>/lwc flag hopperin</td>
+        <td>ホッパーに吸い込まれるかどうかを制御します</td>
+    </tr>
+    <tr>
+        <td>/lwc flag hopperout</td>
+        <td>ホッパーから入れられるかを制御します</td>
+    </tr>
 </table>
 
 その他詳しい情報は[公式wiki](https://github.com/pop4959/LWCX/wiki)を参照してください
@@ -120,6 +156,10 @@ summary: "コマンド一覧"
     <tr>
         <td>/money pay <プレイヤー> <金額></td>
         <td>プレイヤーに指定した金額を送金します</td>
+    </tr>
+    <tr>
+        <td>/money top</td>
+        <td>長者番付を表示します</td>
     </tr>
 </table>
 
@@ -259,3 +299,10 @@ summary: "コマンド一覧"
     </tr>
     <tr>
 </table>
+
+## ペットコマンド
+多すぎ＆多機能すぎて書ききれないので自分で調べて！
+
+[参考ページ1](https://seesaawiki.jp/kotaserver/d/MyPet)<br>
+[参考ページ2](https://toraden.com/wiki/?MyPet)<br>
+[参考ページ3](https://wiki.mypet-plugin.de/)
