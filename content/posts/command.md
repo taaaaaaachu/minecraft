@@ -8,7 +8,7 @@ summary: "コマンド一覧"
 
 # 使用できるコマンド
 
-## 便利系  
+## 便利/おもしろ系  
 <table>
     <table border="1">
     <tr>
@@ -18,6 +18,10 @@ summary: "コマンド一覧"
     <tr>
         <td>/fly</td>
         <td>空を飛べます（5分500円）</td>
+    </tr>
+    <tr>
+        <td>/hat</td>
+        <td>持っているブロックを頭に被ります</td>
     </tr>
 </table>
 
