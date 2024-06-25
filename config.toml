@@ -1,6 +1,6 @@
 theme = "ananke"
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+# baseURL = 'http://example.org/'
+languageCode = 'ja'
 title = 'Minecraft 説明サイト'
 
 [markup]
