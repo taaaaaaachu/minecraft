@@ -1,0 +1,7 @@
+# Hugo output directory
+/public/
+
+# Hugo cache and temporary files
+/resources/
+/cache/
+/.sass-cache/
