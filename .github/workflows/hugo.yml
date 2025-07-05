@@ -58,7 +58,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Create CNAME file
-        run: echo 'minecraft.yuikina.com' > ./public/CNAME
+        run: echo 'minecraft.yuikinai.com' > ./public/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
